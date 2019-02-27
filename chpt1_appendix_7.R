@@ -1,3 +1,5 @@
+# this script was written by Sam Jordan and has large redundant sections
+
 #Chpt 1 appendix 7
 
 #BIVARIATE SCATTERS OF TERMS IN TOP MODELS WITH TOTAL AND FT RICHNESS
